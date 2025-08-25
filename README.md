@@ -1,11 +1,10 @@
 # E-Commerce Customer Intelligence & Recommendation System
 - Tech: Python · Pandas · Jupyter Notebook
 
-## Project Objective
-- Analyze e-commerce transactions to:
-  Understand customer behavior (spend & frequency).
-  Segment customers into actionable groups.
-  Generate simple, explainable product recommendations a business can use immediately.
+## Project Objective : Analyze e-commerce transactions to:
+- Understand customer behavior (spend & frequency).
+- Segment customers into actionable groups.
+- Generate simple, explainable product recommendations a business can use immediately.
 
 ## Key Questions
 
@@ -18,7 +17,7 @@
 - Size: ~50K synthetic transactions
 - Columns: Transaction_ID, User_Name, Age, Country, Product_Category, Product_Name, Purchase_Amount, Payment_Method, Transaction_Date
 
-- Notes:
+### Notes:
 
 - User_Name serves as the customer identifier.
 - Product_Name aligns with Product_Category to enable product-level insights.
