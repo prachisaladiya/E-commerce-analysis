@@ -14,7 +14,7 @@
 - What should we recommend to each customer based on their historic behavior?
 - Who are the top 10 repeat customers?
 
-### Answering these enables targeted promotions, smarter bundling/cross-sell, and higher retention.
+#### Answering these enables targeted promotions, smarter bundling/cross-sell, and higher retention.
 
 ## Dataset (used in this project)
 
@@ -69,7 +69,7 @@
 
 ## Business Outcomes & Actions
 1) Prioritize Champions & Big Spenders.
-  - Provide VIP offers, early access, and premium support to protect high revenue customers.
+   - Provide VIP offers, early access, and premium support to protect high revenue customers.
 
 2) Target Frequent Buyers
    - Promote cross-sell offers and subscription/loyalty programs tailored to their favorite categories.
