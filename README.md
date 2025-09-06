@@ -1,4 +1,7 @@
-# E-Commerce Customer Intelligence & Recommendation System
+# E-Commerce Customer Segmentation & Recommendation Analysis
+## Project Overview: 
+- This project analyzes transaction-level e-commerce data to understand customer behavior, identify high-value segments, and generate explainable product recommendations. Using Python (Pandas, NumPy) in Jupyter     Notebook, the project applies rule-based segmentation and recommendation logic that can be easily understood and deployed by business teams.
+  
 - Tech: Python · Pandas · NumPy · Jupyter Notebook
 - Focus: Customer segmentation (rule-based), explainable product recommendations, and business insights for e-commerce teams.
 
@@ -20,15 +23,15 @@
 
 - Size: ~50,000 synthetic transactions
 - Columns (required):
-1) Transaction_ID — unique transaction identifier
-2)User_Name — customer identifier (used in place of CustomerID)
-3)Age — customer age (optional for demographic slicing)
-4)Country — customer country (useful for regional analysis)
-5)Product_Category — coarse product category (e.g., Electronics, Books)
-6)Product_Name — specific product mapped to category
-7)Purchase_Amount — numeric transaction value
-8)Payment_Method — payment channel used
-9)Transaction_Date — date of the transaction
+1. Transaction_ID — unique transaction identifier
+2. User_Name — customer identifier (used in place of CustomerID)
+3. Age — customer age (optional for demographic slicing)
+4. Country — customer country (useful for regional analysis)
+5. Product_Category — coarse product category (e.g., Electronics, Books)
+6. Product_Name — specific product mapped to category
+7. Purchase_Amount — numeric transaction value
+8. Payment_Method — payment channel used
+9. Transaction_Date — date of the transaction
 
 ### Notes:
 
