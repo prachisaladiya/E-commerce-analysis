@@ -1,14 +1,16 @@
 # E-Commerce Customer Segmentation & Recommendation Analysis
 ## Project Overview: 
-- This project analyzes transaction-level e-commerce data to understand customer behavior, identify high-value segments, and generate explainable product recommendations. Using Python (Pandas, NumPy) in Jupyter     Notebook, the project applies rule-based segmentation and recommendation logic that can be easily understood and deployed by business teams.
-  
+- This project analyzes transaction-level e-commerce data to understand customer behavior, identify high-value segments, and generate explainable product recommendations.
+  Using Python (Pandas, NumPy) in Jupyter Notebook, it applies rule-based customer segmentation and recommendation logic, designed for easy understanding and deployment by business teams.
+
 - Tech: Python · Pandas · NumPy · Jupyter Notebook
 - Focus: Customer segmentation (rule-based), explainable product recommendations, and business insights for e-commerce teams.
 
-## Project Objective: Analyze transaction-level e-commerce data to:
-- Understand customer behavior (spending patterns and purchase frequency).
-- Segment customers into actionable groups that marketing/sales can target.
-- Produce simple, explainable product recommendations a business can deploy immediately.
+## Project Objective:
+-Analyze transaction-level e-commerce data to:
+- Understand customer behavior, including spending patterns and purchase frequency.
+- Segment customers into actionable groups that the marketing and sales teams can target.
+- Generate simple, explainable product recommendations that can be deployed by the business immediately.
 
 ## Key Business Questions Answered
 
